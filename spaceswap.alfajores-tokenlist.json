@@ -1,0 +1,45 @@
+{
+  "name": "SpaceSwap",
+  "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/logo.jpg",
+  "keywords": ["celo", "spaceswap", "spacefi"],
+  "timestamp": "2022-01-24T04:23:48.089Z",
+  "tokens": [
+    {
+      "address": "0x5D3b82EBA5B25858B678bf5ab271Caeba52664Fd",
+      "name": "tcCtoken",
+      "symbol": "tcCtoken",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tcCtoken.png"
+    },
+    {
+      "address": "0xaAE581e715252f73bDcA2EC97a69A3bC15F6D82e",
+      "name": "tcUtoken",
+      "symbol": "tcUtoken",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tcUtoken.png"
+    },
+    {
+      "address": "0x7a48D6bdf02a8F697e21036439B6303A3e8987F8",
+      "name": "tcRtoken",
+      "symbol": "tcRtoken",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tcRtoken.png"
+    },
+    {
+      "address": "0x318f8112C2Bab53a3d48a403Ce6B94c312580CFE",
+      "name": "tcEtoken",
+      "symbol": "tcEtoken",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tcEtoken.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  }
+}
