@@ -1,0 +1,53 @@
+{
+  "name": "SpaceSwap",
+  "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/logo.jpg",
+  "keywords": ["celo", "spaceswap", "spacefi"],
+  "timestamp": "2022-03-07T04:23:48.089Z",
+  "tokens": [
+    {
+      "address": "0x5b0e7DE5766dc8A50B8666ABf7cF131937C1128C",
+      "name": "tCtoken",
+      "symbol": "tCtoken",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tCtoken.png"
+    },
+    {
+      "address": "0xf3feeFd7644464604f2277EfAE42420B6deA6017",
+      "name": "tOtoken",
+      "symbol": "tOtoken",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tOtoken.png"
+    },
+    {
+      "address": "0x433e07B6dfac83C3B0B6E683De8c21aA26DdA0c1",
+      "name": "tLtoken",
+      "symbol": "tLtoken",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tLtoken.png"
+    },
+    {
+      "address": "0x24a9CA12C09522865006b4F41D4c32B4e38E672E",
+      "name": "tUtoken",
+      "symbol": "tUtoken",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tUtoken.png"
+    },
+    {
+      "address": "0x418DcdFB6753d57dEd4CCC3A6660eB807804C98d",
+      "name": "tEtoken",
+      "symbol": "tEtoken",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tEtoken.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  }
+}
