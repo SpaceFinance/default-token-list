@@ -5,36 +5,44 @@
   "timestamp": "2022-01-24T04:23:48.089Z",
   "tokens": [
     {
-      "address": "0x5D3b82EBA5B25858B678bf5ab271Caeba52664Fd",
-      "name": "tcCtoken",
-      "symbol": "tcCtoken",
+      "address": "0x655E2cd5F7E308b958dB7349eE3e3dC54Fa7Ae7D",
+      "name": "StarToken",
+      "symbol": "StarToken",
       "chainId": 44787,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tcCtoken.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/StarToken.png"
     },
     {
-      "address": "0xaAE581e715252f73bDcA2EC97a69A3bC15F6D82e",
-      "name": "tcUtoken",
-      "symbol": "tcUtoken",
+      "address": "0x3207334DE412F22dfa38151B4878079b181aFAAD",
+      "name": "sCELO",
+      "symbol": "sCELO",
       "chainId": 44787,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tcUtoken.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/sCELO.png"
     },
     {
-      "address": "0x7a48D6bdf02a8F697e21036439B6303A3e8987F8",
-      "name": "tcRtoken",
-      "symbol": "tcRtoken",
+      "address": "0x88117d8Cb05dA3eF4996e86b2448EE25Cf21849d",
+      "name": "scUSD",
+      "symbol": "scUSD",
       "chainId": 44787,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tcRtoken.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/scUSD.png"
     },
     {
-      "address": "0x318f8112C2Bab53a3d48a403Ce6B94c312580CFE",
-      "name": "tcEtoken",
-      "symbol": "tcEtoken",
+      "address": "0x61bbC9f914F1A3c1cF4c5FF4606c71EEf6A01eCD",
+      "name": "scEUR",
+      "symbol": "scEUR",
       "chainId": 44787,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tcEtoken.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/scEUR.png"
+    },
+    {
+      "address": "0x6783EcBA5966517A597C648Ec5bbAc6c18eD7E92",
+      "name": "scETH",
+      "symbol": "scETH",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/scETH.png"
     }
   ],
   "version": {
