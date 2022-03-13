@@ -2,7 +2,7 @@
   "name": "SpaceSwap",
   "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/logo.jpg",
   "keywords": ["celo", "spaceswap", "spacefi"],
-  "timestamp": "2022-03-07T04:23:48.089Z",
+  "timestamp": "2022-03-12T04:23:48.089Z",
   "tokens": [
     {
       "address": "0x8093FD022B91b0aD3d8263B9f339F54a79DbB2F8",
@@ -71,7 +71,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   }
 }
