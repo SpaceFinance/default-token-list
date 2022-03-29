@@ -6,8 +6,8 @@
   "tokens": [
     {
       "address": "0x8093FD022B91b0aD3d8263B9f339F54a79DbB2F8",
-      "name": "StarToken",
-      "symbol": "StarToken",
+      "name": "Star",
+      "symbol": "Star",
       "chainId": 9000,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x8093FD022B91b0aD3d8263B9f339F54a79DbB2F8.png"
