@@ -33,7 +33,7 @@
       "name": "USD Coin | Nomad",
       "symbol": "USDC",
       "chainId": 9001,
-      "decimals": 8,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x51e44FfaD5C2B122C8b635671FCC8139dc636E82.png"
     },
     {
