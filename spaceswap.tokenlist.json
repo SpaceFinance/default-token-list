@@ -25,7 +25,7 @@
       "name": "Wrapped WBTC | Nomad",
       "symbol": "WBTC",
       "chainId": 9001,
-      "decimals": 8,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xF80699Dc594e00aE7bA200c7533a07C1604A106D.png"
     },
     {
