@@ -107,11 +107,99 @@
       "chainId": 9001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x51e44FfaD5C2B122C8b635671FCC8139dc636E82.png"
+    },
+    {
+      "name": "Dai Stablecoin - Celer",
+      "symbol": "ceDAI",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x940dAAbA3F713abFabD79CdD991466fe698CBe54",
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
+    },
+    {
+      "name": "Wrapped Ether - Celer",
+      "symbol": "ceWETH",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped BTC - Celer",
+      "symbol": "ceWBTC",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
+      "name": "USD Coin - Celer",
+      "symbol": "ceUSDC",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xe46910336479F254723710D57e7b683F3315b22B",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD - Celer",
+      "symbol": "ceUSDT",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xb72A7567847abA28A2819B855D7fE679D4f59846",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
+    },
+    {
+      "name": "BUSD - Celer",
+      "symbol": "ceBUSD",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x516e6D96896Aea92cE5e78B0348FD997F13802ad",
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png"
+    },
+    {
+      "name": "BNB - Celer",
+      "symbol": "ceBNB",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
+      "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png"
+    },
+    {
+      "name": "AVAX - Celer",
+      "symbol": "ceAVAX",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x8006320739fC281da67Ee62eB9b4Ef8ADD5C903a",
+      "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png"
+    },
+    {
+      "name": "FTM - Celer",
+      "symbol": "ceFTM",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x729416B1F442f204989f1C9f0d58321F878808eD",
+      "logoURI": "https://assets.coingecko.com/coins/images/4001/thumb/Fantom.png"
+    },
+    {
+      "name": "Aurora - Celer",
+      "symbol": "ceAURORA",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x48421FF1c6B93988138130865C4B7Cce10358271",
+      "logoURI": "https://assets.coingecko.com/coins/images/20582/thumb/aurora.jpeg"
+    },
+    {
+      "name": "CELR - Celer",
+      "symbol": "CELR",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xFe6998C5c22936CCa749b14Fcf5F190398cfa8F8",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3814.png"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }
