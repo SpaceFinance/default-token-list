@@ -38,7 +38,7 @@
     },
     {
       "address": "0x7FF4a56B32ee13D7D4D405887E0eA37d61Ed919e",
-      "name": "Tather USD - Nomad",
+      "name": "Tether USD - Nomad",
       "symbol": "USDT",
       "chainId": 9001,
       "decimals": 6,
