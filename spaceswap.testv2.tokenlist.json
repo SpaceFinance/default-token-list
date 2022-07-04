@@ -107,11 +107,51 @@
       "chainId": 44787,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/scETH.png"
+    },
+    {
+      "address": "0x474c41e044208a999bFBE4beD15CDB7d66f7fC02",
+      "name": "STAR",
+      "symbol": "STAR",
+      "chainId": 280,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x474c41e044208a999bFBE4beD15CDB7d66f7fC02.png"
+    },
+    {
+      "address": "0x54a14D7559BAF2C8e8Fa504E019d32479739018c",
+      "name": "USDC",
+      "symbol": "USDC",
+      "chainId": 280,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x54a14D7559BAF2C8e8Fa504E019d32479739018c.png"
+    },
+    {
+      "address": "0x98DDd69B2443Fc67755f0901aEb9828a8A62cc65",
+      "name": "wBTC",
+      "symbol": "wBTC",
+      "chainId": 280,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x98DDd69B2443Fc67755f0901aEb9828a8A62cc65.png"
+    },
+    {
+      "address": "0x4732C03B2CF6eDe46500e799DE79a15Df44929eB",
+      "name": "LINK",
+      "symbol": "LINK",
+      "chainId": 280,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4732C03B2CF6eDe46500e799DE79a15Df44929eB.png"
+    },
+    {
+      "address": "0xE9f4149276E8a4F8DB89E0E3bb78fD853F01e87D",
+      "name": "DAI",
+      "symbol": "DAI",
+      "chainId": 280,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xE9f4149276E8a4F8DB89E0E3bb78fD853F01e87D.png"
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 0,
+    "major": 2,
+    "minor": 1,
     "patch": 0
   }
 }
