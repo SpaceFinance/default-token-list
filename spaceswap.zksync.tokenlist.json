@@ -1,5 +1,5 @@
 {
-  "name": "SpaceSwap",
+  "name": "SpaceSwap-zkSync",
   "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/logo.jpg",
   "keywords": ["zksync", "spaceswap", "spacefi", "evmos"],
   "timestamp": "2022-07-06T04:23:48.089Z",
@@ -48,6 +48,6 @@
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 2
+    "patch": 3
   }
 }
