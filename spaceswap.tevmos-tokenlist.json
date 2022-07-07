@@ -4,21 +4,13 @@
   "keywords": ["celo", "spaceswap", "spacefi"],
   "timestamp": "2022-03-16T04:23:48.089Z",
   "tokens": [
-    {
+     {
       "address": "0x8093FD022B91b0aD3d8263B9f339F54a79DbB2F8",
       "name": "Star",
       "symbol": "Star",
       "chainId": 9000,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/StarToken.png"
-    },
-     {
-      "address": "0x0b67B0A0Ed150B9F06e0ee90D2f1d3c4b3016D5D",
-      "name": "tEVMOS",
-      "symbol": "tEVMOS",
-      "chainId": 9000,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tEVMOS.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x8093FD022B91b0aD3d8263B9f339F54a79DbB2F8.png"
     },
     {
       "address": "0x163e3E57a76e4AEE6c8A9da9C9a4407370631D9a",
@@ -26,7 +18,7 @@
       "symbol": "tATOM",
       "chainId": 9000,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tATOM.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x163e3E57a76e4AEE6c8A9da9C9a4407370631D9a.png"
     },
     {
       "address": "0xe097678861AdE9B0f7bF459EFA5391FB2cA730bD",
@@ -34,7 +26,7 @@
       "symbol": "tOSMO",
       "chainId": 9000,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tOSMO.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xe097678861AdE9B0f7bF459EFA5391FB2cA730bD.png"
     },
     {
       "address": "0x4F40373B940Aa1ecC14C1CB988772abbB786e95f",
@@ -42,7 +34,7 @@
       "symbol": "tLUNA",
       "chainId": 9000,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tLUNA.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4F40373B940Aa1ecC14C1CB988772abbB786e95f.png"
     },
     {
       "address": "0xdeB19D730d7374c6B13620D8435C200422aa8459",
@@ -50,7 +42,15 @@
       "symbol": "tUST",
       "chainId": 9000,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tUST.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xdeB19D730d7374c6B13620D8435C200422aa8459.png"
+    },
+    {
+      "address": "0x0b67B0A0Ed150B9F06e0ee90D2f1d3c4b3016D5D",
+      "name": "tEVMOS",
+      "symbol": "tEVMOS",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x0b67B0A0Ed150B9F06e0ee90D2f1d3c4b3016D5D.png"
     },
     {
       "address": "0x796D686B52096e345AB522fA0439c85e9fc371FA",
@@ -58,7 +58,7 @@
       "symbol": "tETH",
       "chainId": 9000,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tETH.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x796D686B52096e345AB522fA0439c85e9fc371FA.png"
     },
     {
       "address": "0x09E6E97d8ACcE37aC77BAD08ABe4ce48bE7c40eA",
@@ -66,7 +66,7 @@
       "symbol": "tJUNO",
       "chainId": 9000,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/tJUNO.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x09E6E97d8ACcE37aC77BAD08ABe4ce48bE7c40eA.png"
     }
   ],
   "version": {
