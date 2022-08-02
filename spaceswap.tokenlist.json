@@ -15,7 +15,7 @@
     {
       "address": "0x5842C5532b61aCF3227679a8b1BD0242a41752f2",
       "name": "Wrapped Ether - Nomad",
-      "symbol": "WETH",
+      "symbol": "nomadWETH",
       "chainId": 9001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5842C5532b61aCF3227679a8b1BD0242a41752f2.png"
@@ -23,7 +23,7 @@
     {
       "address": "0xF80699Dc594e00aE7bA200c7533a07C1604A106D",
       "name": "Wrapped WBTC - Nomad",
-      "symbol": "WBTC",
+      "symbol": "nomadWBTC",
       "chainId": 9001,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xF80699Dc594e00aE7bA200c7533a07C1604A106D.png"
@@ -31,7 +31,7 @@
     {
       "address": "0x51e44FfaD5C2B122C8b635671FCC8139dc636E82",
       "name": "USD Coin - Nomad",
-      "symbol": "USDC",
+      "symbol": "nomadUSDC",
       "chainId": 9001,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x51e44FfaD5C2B122C8b635671FCC8139dc636E82.png"
@@ -39,7 +39,7 @@
     {
       "address": "0x7FF4a56B32ee13D7D4D405887E0eA37d61Ed919e",
       "name": "Tether USD - Nomad",
-      "symbol": "USDT",
+      "symbol": "nomadUSDT",
       "chainId": 9001,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x7FF4a56B32ee13D7D4D405887E0eA37d61Ed919e.png"
@@ -47,7 +47,7 @@
     {
       "address": "0x63743ACF2c7cfee65A5E356A4C4A005b586fC7AA",
       "name": "Dai Stablecoin - Nomad",
-      "symbol": "DAI",
+      "symbol": "nomadDAI",
       "chainId": 9001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x63743ACF2c7cfee65A5E356A4C4A005b586fC7AA.png"
@@ -55,7 +55,7 @@
     {
       "address": "0x28eC4B29657959F4A5052B41079fe32919Ec3Bd3",
       "name": "Frax - Nomad",
-      "symbol": "FRAX",
+      "symbol": "nomadFRAX",
       "chainId": 9001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x28eC4B29657959F4A5052B41079fe32919Ec3Bd3.png"
@@ -63,7 +63,7 @@
     {
       "address": "0xd0ec216A38F199B0229AE668a96c3Cd9F9f118A6",
       "name": "Frax Share - Nomad",
-      "symbol": "FXS",
+      "symbol": "nomadFXS",
       "chainId": 9001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xd0ec216A38F199B0229AE668a96c3Cd9F9f118A6.png"
@@ -199,7 +199,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 2
+    "minor": 2,
+    "patch": 0
   }
 }
