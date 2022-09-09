@@ -10,7 +10,7 @@
       "symbol": "STAR",
       "chainId": 280,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x474c41e044208a999bFBE4beD15CDB7d66f7fC02.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x0EB7C5A62f8427D869179b2C102474A150120394.png"
     },
     {
       "address": "0x72c4f199cb8784425542583d345e7c00d642e345",
@@ -18,7 +18,7 @@
       "symbol": "USDC",
       "chainId": 280,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x54a14D7559BAF2C8e8Fa504E019d32479739018c.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x72c4f199cb8784425542583d345e7c00d642e345.png"
     },
     {
       "address": "0xe252ad90e4e19a6fb27e7443ffedd18fc6f9ba5c",
@@ -26,7 +26,7 @@
       "symbol": "wBTC",
       "chainId": 280,
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x98DDd69B2443Fc67755f0901aEb9828a8A62cc65.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xe252ad90e4e19a6fb27e7443ffedd18fc6f9ba5c.png"
     },
     {
       "address": "0x7ea4a22d3fc35c61b31cf1998608bdb1df3638e9",
@@ -34,7 +34,7 @@
       "symbol": "LINK",
       "chainId": 280,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4732C03B2CF6eDe46500e799DE79a15Df44929eB.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x7ea4a22d3fc35c61b31cf1998608bdb1df3638e9.png"
     },
     {
       "address": "0x9561634bd45ce00af2cdda94a2e21781d1ddbada",
@@ -42,12 +42,12 @@
       "symbol": "DAI",
       "chainId": 280,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xE9f4149276E8a4F8DB89E0E3bb78fD853F01e87D.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x9561634bd45ce00af2cdda94a2e21781d1ddbada.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 3,
-    "patch": 1
+    "minor": 1,
+    "patch": 3
   }
 }
