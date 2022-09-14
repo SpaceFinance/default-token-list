@@ -5,12 +5,12 @@
   "timestamp": "2022-07-06T04:23:48.089Z",
   "tokens": [
     {
-      "address": "0x0EB7C5A62f8427D869179b2C102474A150120394",
+      "address": "0x8bb5F97115FA6f56EA6e2dc9A392508B3D9dd012",
       "name": "STAR",
       "symbol": "STAR",
       "chainId": 280,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x0EB7C5A62f8427D869179b2C102474A150120394.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x8bb5F97115FA6f56EA6e2dc9A392508B3D9dd012.png"
     },
     {
       "address": "0x72c4F199CB8784425542583D345E7c00D642E345",
@@ -48,6 +48,6 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 3
+    "patch": 4
   }
 }
