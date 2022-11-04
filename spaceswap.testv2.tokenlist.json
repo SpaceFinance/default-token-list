@@ -109,12 +109,12 @@
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/scETH.png"
     },
     {
-      "address": "0xA7B6731430a79A4291966bD87B8bA8F6EB3a2f72",
+      "address": "0xD74a0BdAe89c6c46f32933Dfe3CE788083746061",
       "name": "STAR",
       "symbol": "STAR",
       "chainId": 280,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xA7B6731430a79A4291966bD87B8bA8F6EB3a2f72.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xD74a0BdAe89c6c46f32933Dfe3CE788083746061.png"
     },
     {
       "address": "0x852a4599217E76aA725F0AdA8BF832a1F57a8A91",
@@ -152,6 +152,6 @@
   "version": {
     "major": 2,
     "minor": 3,
-    "patch": 1
+    "patch": 2
   }
 }
