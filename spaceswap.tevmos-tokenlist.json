@@ -61,12 +61,12 @@
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xD587A74C63346Aab0E86cF4BF44861B53eAEF9B3.png"
     },
     {
-      "address": "0x4457d1A37dF63CF9d5E677a6058D4C40024eF060",
+      "address": "0x46aF7538A64990A19b2bD0D5F5d946438eD09e65",
       "name": "tSPACE",
       "symbol": "tSPACE",
       "chainId": 9000,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4457d1A37dF63CF9d5E677a6058D4C40024eF060.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x46aF7538A64990A19b2bD0D5F5d946438eD09e65.png"
     },
     {
       "address": "0xd2B04836305dAc8Af45F4D8868c2eB340b1ADb26",
