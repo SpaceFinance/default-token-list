@@ -18,7 +18,7 @@
       "chainId": 9001,
       "decimals": 6,
       "address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/osmo%201.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864.png"
     },
     {
       "name": "Cosmos Hub",
@@ -26,7 +26,7 @@
       "chainId": 9001,
       "decimals": 6,
       "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/atom%201.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6.png"
     },
     {
       "name": "Juno",
@@ -34,7 +34,7 @@
       "chainId": 9001,
       "decimals": 6,
       "address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
-      "logoURI": "https://assets.coingecko.com/coins/images/19249/small/juno.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19.png"
     },
     {
       "name": "Stargaze",
@@ -66,7 +66,7 @@
       "chainId": 9001,
       "decimals": 6,
       "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57.png"
     },
     {
       "name": "Wrapped Ether - Axelar",
@@ -74,7 +74,7 @@
       "chainId": 9001,
       "decimals": 18,
       "address": "0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5.png"
     },
     {
       "name": "Wrapped BTC - Axelar",
@@ -82,7 +82,7 @@
       "chainId": 9001,
       "decimals": 8,
       "address": "0xF5b24c0093b65408ACE53df7ce86a02448d53b25",
-      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xF5b24c0093b65408ACE53df7ce86a02448d53b25.png"
     },
     {
       "name": "Gravity",
@@ -407,7 +407,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
