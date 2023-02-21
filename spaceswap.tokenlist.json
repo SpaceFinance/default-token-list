@@ -9,8 +9,8 @@
       "symbol": "SPACE",
       "chainId": 9001,
       "decimals": 18,
-      "address": "0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc",
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc.png"
+      "address": "0x4E2D4F33d759976381D9DeE04B197bF52F6bC1FC",
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4E2D4F33d759976381D9DeE04B197bF52F6bC1FC.png"
     },
     {
       "name": "Wrapped Evmos",
@@ -415,7 +415,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
