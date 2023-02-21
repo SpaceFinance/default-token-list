@@ -5,6 +5,14 @@
   "timestamp": "2022-04-27T04:23:48.089Z",
   "tokens": [
     {
+      "name": "SpaceFi Token",
+      "symbol": "SPACE",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc",
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc.png"
+    },
+    {
       "name": "Wrapped Evmos",
       "symbol": "WEVMOS",
       "chainId": 9001,
@@ -407,7 +415,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
