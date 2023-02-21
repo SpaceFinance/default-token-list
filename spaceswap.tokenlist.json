@@ -53,22 +53,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/22363/small/stars.png"
     },
     {
-      "name": "Diffusion",
-      "symbol": "DIFF",
-      "chainId": 9001,
-      "decimals": 18,
-      "address": "0x3f75ceabCDfed1aCa03257Dc6Bdc0408E2b4b026",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/DIFF.png"
-    },
-    {
-      "name": "xDiffusion",
-      "symbol": "xDIFF",
-      "chainId": 9001,
-      "decimals": 18,
-      "address": "0x75aeE82a16BD1fB98b11879af93AB7CE055f66Da",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/xDIFF.png"
-    },
-    {
       "name": "USD Coin - Axelar",
       "symbol": "axlUSDC",
       "chainId": 9001,
@@ -415,7 +399,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
