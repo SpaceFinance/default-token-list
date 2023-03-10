@@ -5,15 +5,15 @@
   "timestamp": "2022-07-06T04:23:48.089Z",
   "tokens": [
     {
-      "address": "0xD74a0BdAe89c6c46f32933Dfe3CE788083746061",
-      "name": "STAR",
-      "symbol": "STAR",
+      "address": "0x880F03cA84e6Cf0D0871c9818A2981DEBabA22b3",
+      "name": "tSPACE",
+      "symbol": "tSPACE",
       "chainId": 280,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xD74a0BdAe89c6c46f32933Dfe3CE788083746061.png"
     },
     {
-      "address": "0x852a4599217E76aA725F0AdA8BF832a1F57a8A91",
+      "address": "0x0faf6df7054946141266420b43783387a78d82a9",
       "name": "USDC",
       "symbol": "USDC",
       "chainId": 280,
