@@ -349,6 +349,22 @@
       "logoURI": "https://app.arable.finance/public/assets/tokens/acre_token.png"
     },
     {
+      "name": "xSPACE",
+      "symbol": "xSPACE",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x68F175Fb9Dc8b795D8e5647C2C71f787E736A0ED",
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x68F175Fb9Dc8b795D8e5647C2C71f787E736A0ED.png"
+    },
+    {
+      "name": "xEVMOS",
+      "symbol": "xEVMOS",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x74cf35d8CBec0eB82998A5Ebe6B63411687fe5C9",
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x74cf35d8CBec0eB82998A5Ebe6B63411687fe5C9.png"
+    },
+    {
       "name": "MOCK USDC",
       "symbol": "MUSDC",
       "chainId": 9000,
@@ -399,7 +415,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
