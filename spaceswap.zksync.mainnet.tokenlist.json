@@ -2,7 +2,7 @@
   "name": "SpaceSwapzkSync",
   "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/logo.jpg",
   "keywords": ["zksync", "spaceswap", "spacefi", "evmos"],
-  "timestamp": "2022-03-020T04:24:48.078Z",
+  "timestamp": "2022-03-20T04:24:48.078Z",
   "tokens": [
    {
       "address": "0xD80fEE48D045F6c65de8DB9bd2e6587648d50eeC",
@@ -24,6 +24,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
