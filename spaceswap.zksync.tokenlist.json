@@ -43,27 +43,11 @@
       "chainId": 280,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x2E4805d59193E173C9C8125B4Fc8F7f9c7a3a3eD.png"
-    },
-    {
-      "address": "0xD80fEE48D045F6c65de8DB9bd2e6587648d50eeC",
-      "name": "tToken",
-      "symbol": "tToken",
-      "chainId": 324,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xD80fEE48D045F6c65de8DB9bd2e6587648d50eeC.png"
-    },
-    {
-      "address": "0x982E7cF704020042d6ec2b48Da32c6AEC2E24bA1",
-      "name": "tTokenB",
-      "symbol": "tTokenB",
-      "chainId": 324,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x982E7cF704020042d6ec2b48Da32c6AEC2E24bA1.png"
     }
   ],
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 4
+    "patch": 5
   }
 }
