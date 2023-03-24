@@ -43,11 +43,26 @@
       "chainId": 280,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x2E4805d59193E173C9C8125B4Fc8F7f9c7a3a3eD.png"
+    },{
+      "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+      "name": "WETH",
+      "symbol": "WETH",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91.png"
+    },
+    {
+      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+      "name": "USDC",
+      "symbol": "USDC",
+      "chainId": 324,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 1,
-    "patch": 5
+    "minor": 2,
+    "patch": 2
   }
 }
