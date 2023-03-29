@@ -131,6 +131,13 @@
       "chainId": 324,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
+    },{
+      "address": "0x47260090cE5e83454d5f05A0AbbB2C953835f777",
+      "name": "SPACE",
+      "symbol": "SPACE",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x47260090cE5e83454d5f05A0AbbB2C953835f777.png"
     }
   ],
   "version": {
