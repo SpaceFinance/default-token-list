@@ -1,7 +1,7 @@
 {
   "name": "SpaceSwap",
   "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/logo.jpg",
-  "keywords": ["evmos", "spaceswap", "spacefi", "swap", "zksync"],
+  "keywords": ["evmos", "spaceswap", "spacefi", "swap"],
   "timestamp": "2022-04-27T04:23:48.089Z",
   "tokens": [
     {
@@ -411,34 +411,11 @@
       "decimals": 18,
       "address": "0xD3607915d934576EcdC389E7DBc641097fd5A0dE",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/RHS.png"
-    },
-    {
-      "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
-      "name": "WETH",
-      "symbol": "WETH",
-      "chainId": 324,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91.png"
-    },
-    {
-      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
-      "name": "USDC",
-      "symbol": "USDC",
-      "chainId": 324,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
-    },{
-      "address": "0x47260090cE5e83454d5f05A0AbbB2C953835f777",
-      "name": "SPACE",
-      "symbol": "SPACE",
-      "chainId": 324,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x47260090cE5e83454d5f05A0AbbB2C953835f777.png"
     }
   ],
   "version": {
     "major": 2,
     "minor": 6,
-    "patch": 2
+    "patch": 3
   }
 }
