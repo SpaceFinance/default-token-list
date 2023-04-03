@@ -1,7 +1,7 @@
 {
   "name": "SpaceSwap",
   "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/logo.jpg",
-  "keywords": ["evmos", "spaceswap", "spacefi", "swap"],
+  "keywords": ["evmos", "spaceswap", "spacefi", "swap", "zksync"],
   "timestamp": "2022-04-27T04:23:48.089Z",
   "tokens": [
     {
@@ -439,6 +439,6 @@
   "version": {
     "major": 2,
     "minor": 6,
-    "patch": 1
+    "patch": 2
   }
 }
