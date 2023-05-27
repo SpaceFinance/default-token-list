@@ -415,7 +415,7 @@
     {
       "name": "XEN Crypto",
       "symbol": "coXEN",
-      "chainId": 9000,
+      "chainId": 9001,
       "decimals": 18,
       "address": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e.png"
@@ -424,6 +424,6 @@
   "version": {
     "major": 2,
     "minor": 6,
-    "patch": 4
+    "patch": 5
   }
 }
