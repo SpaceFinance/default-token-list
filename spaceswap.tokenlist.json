@@ -411,11 +411,19 @@
       "decimals": 18,
       "address": "0xD3607915d934576EcdC389E7DBc641097fd5A0dE",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/RHS.png"
+    },
+    {
+      "name": "XEN Crypto",
+      "symbol": "COXEN",
+      "chainId": 9000,
+      "decimals": 18,
+      "address": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e.png"
     }
   ],
   "version": {
     "major": 2,
     "minor": 6,
-    "patch": 3
+    "patch": 4
   }
 }
