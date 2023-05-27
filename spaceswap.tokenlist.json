@@ -414,7 +414,7 @@
     },
     {
       "name": "XEN Crypto",
-      "symbol": "COXEN",
+      "symbol": "coXEN",
       "chainId": 9000,
       "decimals": 18,
       "address": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
