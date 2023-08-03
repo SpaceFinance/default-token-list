@@ -1,0 +1,53 @@
+{
+  "name": "SpaceSwapScroll",
+  "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/logo.jpg",
+  "keywords": ["scroll", "zksync", "spaceswap", "spacefi", "evmos"],
+  "timestamp": "2023-08-03T09:18:43.024Z",
+  "tokens": [
+   {
+      "address": "0xACbc9652C9Cafd9D1554CCcB15Dd7D3D9A9A47bB",
+      "name": "tSPACE",
+      "symbol": "tSPACE",
+      "chainId": 534353,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xACbc9652C9Cafd9D1554CCcB15Dd7D3D9A9A47bB.png"
+    },
+    {
+      "address": "0xa1ea0b2354f5a344110af2b6ad68e75545009a03",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "chainId": 534353,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xa1ea0b2354f5a344110af2b6ad68e75545009a03.png"
+    },
+    {
+      "address": "0x67aE69Fd63b4fc8809ADc224A9b82Be976039509",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "chainId": 324,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x67aE69Fd63b4fc8809ADc224A9b82Be976039509.png"
+    },
+    {
+      "address": "0x4702E5AEb70BdC05B11F8d8E701ad000dc85bD44",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "chainId": 534353,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4702E5AEb70BdC05B11F8d8E701ad000dc85bD44.png"
+    },
+    {
+      "address": "0x0CDEA04b370C1FA4bC2032b4ef23dB3EBCbA258a",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "chainId": 534353,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x0CDEA04b370C1FA4bC2032b4ef23dB3EBCbA258a.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 2
+  }
+}
