@@ -50,7 +50,7 @@
       "symbol": "tSPACE",
       "chainId": 534351,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xACbc9652C9Cafd9D1554CCcB15Dd7D3D9A9A47bB.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xeFBB3810C4347f416d2A24EE37b09b466b6Eac15.png"
     },
     {
       "address": "0x5300000000000000000000000000000000000004",
@@ -58,7 +58,7 @@
       "symbol": "WETH",
       "chainId": 534351,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xa1EA0B2354F5A344110af2b6AD68e75545009a03.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5300000000000000000000000000000000000004.png"
     }
   ],
   "version": {
