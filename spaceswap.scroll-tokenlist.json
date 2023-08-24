@@ -59,11 +59,19 @@
       "chainId": 534351,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5300000000000000000000000000000000000004.png"
+    },
+    {
+      "address": "0xD9692f1748aFEe00FACE2da35242417dd05a8615",
+      "name": "Gho Token",
+      "symbol": "GHO",
+      "chainId": 534351,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xD9692f1748aFEe00FACE2da35242417dd05a8615.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   }
 }
