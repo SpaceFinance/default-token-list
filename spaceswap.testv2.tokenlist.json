@@ -348,11 +348,74 @@
       "chainId": 324,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x458a2e32eabc7626187e6b75f29d7030a5202bd4.png"
+    },{
+      "address": "0x787c09494Ec8Bcb24DcAf8659E7d5D69979eE508",
+      "name": "Maverick Token",
+      "symbol": "MAV",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x787c09494Ec8Bcb24DcAf8659E7d5D69979eE508.png"
+    },{
+      "address": "0x75Af292c1c9a37b3EA2E6041168B4E48875b9ED5",
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x75Af292c1c9a37b3EA2E6041168B4E48875b9ED5.png"
+    },{
+      "address": "0xC059767cB62F003E863f9E7bD1fc813BEfF9693C",
+      "name": "TiTi USD on zkSync",
+      "symbol": "TiUSD",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xC059767cB62F003E863f9E7bD1fc813BEfF9693C.png"
+    },{
+      "address": "0x16A9494e257703797D747540f01683952547EE5b",
+      "name": "iZUMi",
+      "symbol": "iZi",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x16A9494e257703797D747540f01683952547EE5b.png"
+    },{
+      "address": "0xe593853b4d603d5b8f21036Bb4AD0D1880097a6e",
+      "name": "Fulcrom Finance",
+      "symbol": "FUL",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xe593853b4d603d5b8f21036Bb4AD0D1880097a6e.png"
+    },{
+      "address": "0x81E7186947fb59AAAAEb476a47daAc60680cbbaF",
+      "name": "WeFi",
+      "symbol": "WEFI",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x81E7186947fb59AAAAEb476a47daAc60680cbbaF.png"
+    },{
+      "address": "0x1ab721f531Cab4c87d536bE8B985EAFCE17f0184",
+      "name": "ZigZag",
+      "symbol": "ZZ",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x1ab721f531Cab4c87d536bE8B985EAFCE17f0184.png"
+    },{
+      "address": "0xc65364c35D8E2aabA17D00E468c29576f3eC105c",
+      "name": "Beanycoin",
+      "symbol": "Beany",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xc65364c35D8E2aabA17D00E468c29576f3eC105c.png"
+    },{
+      "address": "0x90059C32Eeeb1A2aa1351a58860d98855f3655aD",
+      "name": "ONEZ Stablecoin",
+      "symbol": "ONEZ",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x90059C32Eeeb1A2aa1351a58860d98855f3655aD.svg"
     }
   ],
   "version": {
     "major": 4,
     "minor": 2,
-    "patch": 6
+    "patch": 7
   }
 }
