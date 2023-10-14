@@ -67,11 +67,35 @@
       "chainId": 534351,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xD9692f1748aFEe00FACE2da35242417dd05a8615.png"
+    },
+    {
+      "address": "0x5300000000000000000000000000000000000004",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5300000000000000000000000000000000000004.png"
+    },
+    {
+      "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "chainId": 534352,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4.png"
+    },
+    {
+      "address": "0x67aE69Fd63b4fc8809ADc224A9b82Be976039509",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "chainId": 534352,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x67aE69Fd63b4fc8809ADc224A9b82Be976039509.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   }
 }
