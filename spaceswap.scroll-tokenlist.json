@@ -85,17 +85,17 @@
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4.png"
     },
     {
-      "address": "0x67aE69Fd63b4fc8809ADc224A9b82Be976039509",
+      "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
       "name": "Tether USD",
       "symbol": "USDT",
       "chainId": 534352,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x67aE69Fd63b4fc8809ADc224A9b82Be976039509.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   }
 }
