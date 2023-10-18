@@ -91,11 +91,99 @@
       "chainId": 534352,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df.png"
+    },
+    {
+      "address": "0x79379C0E09a41d7978f883a56246290eE9a8c4d3",
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x79379C0E09a41d7978f883a56246290eE9a8c4d3.svg"
+    },
+    {
+      "address": "0x6a28e90582c583fcd3347931c544819C31e9D0e0",
+      "name": "Balancer",
+      "symbol": "BAL",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x6a28e90582c583fcd3347931c544819C31e9D0e0.png"
+    },
+    {
+      "address": "0xF613F403C2887aa473b46252da3AA5D6a6084b15",
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xF613F403C2887aa473b46252da3AA5D6a6084b15.svg"
+    },
+    {
+      "address": "0xB755039eDc7910C1F1BD985D48322E55A31AC0bF",
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xB755039eDc7910C1F1BD985D48322E55A31AC0bF.png"
+    },
+    {
+      "address": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97.svg"
+    },
+    {
+      "address": "0x608ef9A3BffE206B86c3108218003b3cfBf99c84",
+      "name": "Kyber Network Crystal v2",
+      "symbol": "KNC",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x608ef9A3BffE206B86c3108218003b3cfBf99c84.svg"
+    },
+    {
+      "address": "0xeDEAbc3A1e7D21fE835FFA6f83a710c70BB1a051",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xeDEAbc3A1e7D21fE835FFA6f83a710c70BB1a051.svg"
+    },
+    {
+      "address": "0x53878B874283351D26d206FA512aEcE1Bef6C0dD",
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x53878B874283351D26d206FA512aEcE1Bef6C0dD.svg"
+    },
+    {
+      "address": "0x434cdA25E8a2CA5D9c1C449a8Cb6bCbF719233E8",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x434cdA25E8a2CA5D9c1C449a8Cb6bCbF719233E8.png"
+    },
+    {
+      "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "chainId": 534352,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1.svg"
+    },
+    {
+      "address": "0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32.svg"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 8
+    "patch": 9
   }
 }
