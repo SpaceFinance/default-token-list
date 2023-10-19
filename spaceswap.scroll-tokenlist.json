@@ -179,11 +179,51 @@
       "chainId": 534352,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32.svg"
+    },
+    {
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "name": "Axelar Wrapped USDC",
+      "symbol": "axlUSDC",
+      "chainId": 534352,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215.png"
+    },
+    {
+      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+      "name": "Axelar",
+      "symbol": "AXL",
+      "chainId": 534352,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f.png"
+    },
+    {
+      "address": "0xB448eC505C924944ca8B2C55EF05c299eE0781df",
+      "name": "Axelar Wrapped KNC",
+      "symbol": "axlKNC",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xB448eC505C924944ca8B2C55EF05c299eE0781df.png"
+    },
+    {
+      "address": "0xDdEB23905F6987d5f786A93C00bBED3d97Af1ccc",
+      "name": "PunkSwap Token",
+      "symbol": "PUNK",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xDdEB23905F6987d5f786A93C00bBED3d97Af1ccc.png"
+    },
+    {
+      "address": "0x87203Ff9393dC97D7847B4D4103bC32fea7d2DB2",
+      "name": "Script",
+      "symbol": "SCRIPT",
+      "chainId": 534352,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x87203Ff9393dC97D7847B4D4103bC32fea7d2DB2.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
