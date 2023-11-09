@@ -219,11 +219,19 @@
       "chainId": 534352,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x87203Ff9393dC97D7847B4D4103bC32fea7d2DB2.png"
+    },
+    {
+      "address": "0xCE3CfE8781E6dD5EE185d63100236743469acfA1",
+      "name": "Rock Scroll",
+      "symbol": "ROCK",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xCE3CfE8781E6dD5EE185d63100236743469acfA1.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
