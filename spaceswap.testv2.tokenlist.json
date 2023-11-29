@@ -411,11 +411,88 @@
       "chainId": 324,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x90059C32Eeeb1A2aa1351a58860d98855f3655aD.svg"
+    },{
+      "address": "0x5F018E9d51b167aa5eEc28037199767B2B31DCb0",
+      "name": "Tiny Coin",
+      "symbol": "TINC",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5F018E9d51b167aa5eEc28037199767B2B31DCb0.png"
+    },{
+      "address": "0xd90764041DA2720396863836E9f78dDaee140533",
+      "name": "Wrapped TProtocol T-Bill",
+      "symbol": "wTBT",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xd90764041DA2720396863836E9f78dDaee140533.png"
+    },{
+      "address": "0x4EBfb78C4780C304dff7de518db630b67e3F044b",
+      "name": "TiTi",
+      "symbol": "TiTi",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4EBfb78C4780C304dff7de518db630b67e3F044b.png"
+    },{
+      "address": "0x2141d7fe06A1d69c016fC638bA75b6Ef92Fa1435",
+      "name": "zkSync ID",
+      "symbol": "ZKID",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x2141d7fe06A1d69c016fC638bA75b6Ef92Fa1435.png"
+    },{
+      "address": "0x43cD37CC4B9EC54833c8aC362Dd55E58bFd62b86",
+      "name": "Curve USD Stablecoin",
+      "symbol": "crvUSD",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x43cD37CC4B9EC54833c8aC362Dd55E58bFd62b86.png"
+    },{
+      "address": "0xCDb7D260c107499C80B4b748e8331c64595972a1",
+      "name": "KaratDAO",
+      "symbol": "KAT",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xCDb7D260c107499C80B4b748e8331c64595972a1.png"
+    },{
+      "address": "0x10d967f46b06580C4a87b05c78f04e4Df25C0DB0",
+      "name": "Holdstation Utility Gold",
+      "symbol": "uGOLD",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x10d967f46b06580C4a87b05c78f04e4Df25C0DB0.png"
+    },{
+      "address": "0xBcF7DA740a4d3e5B6B92f32167D1Ee48A422f955",
+      "name": "PvP Bot",
+      "symbol": "PVP",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xBcF7DA740a4d3e5B6B92f32167D1Ee48A422f955.png"
+    },{
+      "address": "0xD63eF5e9C628c8a0E8984CDfb7444AEE44B09044",
+      "name": "GOVI",
+      "symbol": "GOVI",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xD63eF5e9C628c8a0E8984CDfb7444AEE44B09044.png"
+    },{
+      "address": "0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2",
+      "name": "Holdstation",
+      "symbol": "HOLD",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2.png"
+    },{
+      "address": "0x14ACCcD04393f26BA155E5402aA6fdDBB8e2254a",
+      "name": "Touch Fan Token",
+      "symbol": "TFT",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x14ACCcD04393f26BA155E5402aA6fdDBB8e2254a.png"
     }
   ],
   "version": {
     "major": 4,
     "minor": 2,
-    "patch": 7
+    "patch": 8
   }
 }
