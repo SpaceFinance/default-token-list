@@ -19,11 +19,34 @@
       "chainId": 324,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
+    },{
+      "address": "0x863EC5643cEa4B4d8adE58757fe8EAB417F2B47d",
+      "name": "WETH",
+      "symbol": "WETH",
+      "chainId": 300,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x863EC5643cEa4B4d8adE58757fe8EAB417F2B47d.png"
+    },
+    {
+      "address": "0x39c1631FdC600d771Bb3fEddD7bdE66a591c5218",
+      "name": "USDC",
+      "symbol": "USDC",
+      "chainId": 300,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x39c1631FdC600d771Bb3fEddD7bdE66a591c5218.png"
+    },
+    {
+      "address": "0xD985f437626F20C484aD5519c7e7436a3ca537ef",
+      "name": "tSPACE",
+      "symbol": "tSPACE",
+      "chainId": 300,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xD985f437626F20C484aD5519c7e7436a3ca537ef.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
