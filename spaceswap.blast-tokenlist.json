@@ -1,0 +1,37 @@
+{
+  "name": "SpaceSwapBlast",
+  "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/logo.jpg",
+  "keywords": ["blast", "spaceswap", "spacefi"],
+  "timestamp": "2024-02-08T04:22:48.077Z",
+  "tokens": [
+   {
+      "address": "0x4200000000000000000000000000000000000023",
+      "name": "WETH",
+      "symbol": "WETH",
+      "chainId": 168587773,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4200000000000000000000000000000000000023.png"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000022",
+      "name": "USDB",
+      "symbol": "USDB",
+      "chainId": 168587773,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4200000000000000000000000000000000000022.png"
+    },
+    {
+      "address": "0xD88957c98D65E9bee30304290f734847De09B990",
+      "name": "tSPACE",
+      "symbol": "tSPACE",
+      "chainId": 168587773,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xD88957c98D65E9bee30304290f734847De09B990.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  }
+}
