@@ -110,8 +110,8 @@
     },
     {
       "address": "0x0B4d0ee29857c3961b380d4ec138EA5814E346b9",
-      "name": "P@cman Blastoff",
-      "symbol": "$PACM",
+      "name": "Pacman Blastoff",
+      "symbol": "PACM",
       "chainId": 81457,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x0B4d0ee29857c3961b380d4ec138EA5814E346b9.png"
@@ -126,7 +126,7 @@
     },
     {
       "address": "0x764933fbAd8f5D04Ccd088602096655c2ED9879F",
-      "name": "Any Inu (non-ITS)",
+      "name": "Any Inu",
       "symbol": "AI",
       "chainId": 81457,
       "decimals": 18,
@@ -152,6 +152,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   }
 }
