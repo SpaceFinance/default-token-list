@@ -87,7 +87,7 @@
     {
       "address": "0xB582Dc28968c725D2868130752aFa0c13EbF9b1a",
       "name": "Blast Pepe",
-      "symbol": "PEPE",
+      "symbol": "BEPE",
       "chainId": 81457,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xB582Dc28968c725D2868130752aFa0c13EbF9b1a.png"
@@ -159,7 +159,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 8
+    "minor": 1,
+    "patch": 0
   }
 }
