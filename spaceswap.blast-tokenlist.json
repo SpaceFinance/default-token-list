@@ -149,17 +149,17 @@
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x891c9B37177Bdf8Edc891119C9d8aEefDa9A5246.png"
     },
     {
-      "address": "0x5a7651dd5c9d72fc4fdd4f9706193f33dfb4122d",
+      "address": "0x5A7651Dd5C9d72fc4FDD4f9706193F33DFb4122d",
       "name": "Wand Leveraged ETH",
       "symbol": "ETHx",
       "chainId": 81457,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5a7651dd5c9d72fc4fdd4f9706193f33dfb4122d.png"
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5A7651Dd5C9d72fc4FDD4f9706193F33DFb4122d.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
