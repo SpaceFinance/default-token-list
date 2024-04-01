@@ -488,11 +488,18 @@
       "chainId": 324,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x14ACCcD04393f26BA155E5402aA6fdDBB8e2254a.png"
+    },{
+      "address": "0x838A66F841DD5148475a8918db0732c239499a03",
+      "name": "STAR",
+      "symbol": "STAR",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x838A66F841DD5148475a8918db0732c239499a03.png"
     }
   ],
   "version": {
     "major": 4,
     "minor": 2,
-    "patch": 8
+    "patch": 9
   }
 }
