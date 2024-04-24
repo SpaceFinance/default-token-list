@@ -1,0 +1,61 @@
+{
+  "name": "BeraSpaceSwap",
+  "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/logo.jpg",
+  "keywords": ["Berachain", "BeraSpaceSwap", "BeraSpace"],
+  "timestamp": "2024-04-24T08:17:34.057Z",
+  "tokens": [
+   {
+      "address": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F",
+      "name": "Wrapped BERA",
+      "symbol": "WBERA",
+      "chainId": 80085,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5806E416dA447b267cEA759358cF22Cc41FAE80F.png"
+    },
+    {
+      "address": "0x8239FBb3e3D0C2cDFd7888D8aF7701240Ac4DcA4",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "chainId": 80085,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x8239FBb3e3D0C2cDFd7888D8aF7701240Ac4DcA4.png"
+    },
+    {
+      "address": "0xE81f86bB828933bb67CD6078a35f0e6eEf24Af08",
+      "name": "tSPACE",
+      "symbol": "tSPACE",
+      "chainId": 80085,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xE81f86bB828933bb67CD6078a35f0e6eEf24Af08.png"
+    },
+    {
+      "address": "0x9DAD8A1F64692adeB74ACa26129e0F16897fF4BB",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "chainId": 80085,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x9DAD8A1F64692adeB74ACa26129e0F16897fF4BB.png"
+    },
+    {
+      "address": "0x6581e59A1C8dA66eD0D313a0d4029DcE2F746Cc5",
+      "name": "stargate USD Coin",
+      "symbol": "STGUSDC",
+      "chainId": 80085,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x6581e59A1C8dA66eD0D313a0d4029DcE2F746Cc5.png"
+    },
+    {
+      "address": "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B",
+      "name": "Honey",
+      "symbol": "HONEY",
+      "chainId": 80085,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
