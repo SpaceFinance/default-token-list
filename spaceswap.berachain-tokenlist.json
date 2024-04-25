@@ -33,7 +33,7 @@
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "chainId": 80085,
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x9DAD8A1F64692adeB74ACa26129e0F16897fF4BB.png"
     },
     {
@@ -56,6 +56,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
