@@ -53,7 +53,7 @@
     },
     {
       "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
-      "name": "USDC.e",
+      "name": "USDC Coin",
       "symbol": "USDCe",
       "chainId": 324,
       "decimals": 6,
