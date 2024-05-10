@@ -53,8 +53,8 @@
     },
     {
       "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
-      "name": "USDC",
-      "symbol": "USDC",
+      "name": "USDC.e",
+      "symbol": "USDC.e",
       "chainId": 324,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
@@ -427,6 +427,6 @@
   "version": {
     "major": 3,
     "minor": 2,
-    "patch": 10
+    "patch": 11
   }
 }
