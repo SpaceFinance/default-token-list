@@ -425,7 +425,7 @@
     },
     {
       "address": "0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4",
-      "name": "USDC (Native)",
+      "name": "USDC Native",
       "symbol": "USDC",
       "chainId": 324,
       "decimals": 6,
@@ -435,6 +435,6 @@
   "version": {
     "major": 3,
     "minor": 2,
-    "patch": 15
+    "patch": 16
   }
 }
