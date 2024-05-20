@@ -126,8 +126,8 @@
     },
     {
       "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
-      "name": "USDC Coin",
-      "symbol": "USDCe",
+      "name": "USD Coin",
+      "symbol": "USDC.e",
       "chainId": 324,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
@@ -495,11 +495,19 @@
       "chainId": 324,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x838A66F841DD5148475a8918db0732c239499a03.png"
+    },
+    {
+      "address": "0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4",
+      "name": "USDC (Native)",
+      "symbol": "USDC",
+      "chainId": 324,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4.png"
     }
   ],
   "version": {
     "major": 4,
     "minor": 2,
-    "patch": 12
+    "patch": 13
   }
 }
