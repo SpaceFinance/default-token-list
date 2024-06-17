@@ -431,8 +431,8 @@
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4.png"
     },{
       "address": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
-      "name": "STAR",
-      "symbol": "STAR",
+      "name": "zkSync",
+      "symbol": "ZK",
       "chainId": 324,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E.png"
@@ -441,6 +441,6 @@
   "version": {
     "major": 3,
     "minor": 2,
-    "patch": 18
+    "patch": 19
   }
 }
