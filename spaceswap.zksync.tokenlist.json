@@ -436,11 +436,18 @@
       "chainId": 324,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E.png"
+    },{
+      "address": "0x5FD37F12029511F17C1898477f7fb685cF6C0C0f",
+      "name": "KZ token",
+      "symbol": "KZ",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5FD37F12029511F17C1898477f7fb685cF6C0C0f.png"
     }
   ],
   "version": {
     "major": 3,
     "minor": 2,
-    "patch": 19
+    "patch": 20
   }
 }
